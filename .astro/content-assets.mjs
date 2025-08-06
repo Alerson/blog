@@ -1,0 +1,7 @@
+
+import __ASTRO_IMAGE_IMPORT_Z1k32xB from "../../assets/crianca-feliz.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md";
+import __ASTRO_IMAGE_IMPORT_E0moU from "../../assets/familia-abraco.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md";
+import __ASTRO_IMAGE_IMPORT_S6m26 from "../../assets/crianca-lendo.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md";
+import __ASTRO_IMAGE_IMPORT_Z1oGEib from "../../assets/crianca-emocoes-hero.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md";
+export default new Map([["../../assets/crianca-feliz.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md", __ASTRO_IMAGE_IMPORT_Z1k32xB], ["../../assets/familia-abraco.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md", __ASTRO_IMAGE_IMPORT_E0moU], ["../../assets/crianca-lendo.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md", __ASTRO_IMAGE_IMPORT_S6m26], ["../../assets/crianca-emocoes-hero.jpg?astroContentImageFlag=&importer=src%2Fcontent%2Fblog%2Fimportancia-emocoes-criancas.md", __ASTRO_IMAGE_IMPORT_Z1oGEib]]);
+		
